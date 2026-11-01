@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pillow
+imagehash
+requests
+nltk
+faiss-cpu
+sentence-transformers
+transformers
+torch
+ultralytics
+rank_bm25
