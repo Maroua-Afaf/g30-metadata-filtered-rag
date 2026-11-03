@@ -1,0 +1,10 @@
+data/embeddings/*.npy
+data/index/*.index
+data/coco/
+*.zip
+*.pt
+*.jpg
+*.jpeg
+.ipynb_checkpoints/
+__pycache__/
+.env
